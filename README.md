@@ -43,7 +43,7 @@ Una vez desplegada en Streamlit Cloud, puedes acceder a la app aquí:
 
 ## ⚠️ Limitaciones
 
-- Los modelos de PLN simples pueden fallar ante ironía, sarcasmo o ambigüedad.
+- Los modelos de NLP simples pueden fallar ante ironía, sarcasmo o ambigüedad.
 - El contexto de un tweet suele ser limitado.
 
 ---
