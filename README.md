@@ -2,7 +2,7 @@
 
 # ✈️ Análisis de Sentimientos en Tweets sobre Aerolíneas
 
-Esta aplicación web analiza más de 200 tweets reales sobre aerolíneas, clasificándolos como **positivos**, **negativos** o **neutrales** usando técnicas de Procesamiento de Lenguaje Natural (PLN).
+Esta aplicación web analiza más de 200 tweets reales sobre aerolíneas, clasificándolos como **positivos**, **negativos** o **neutrales** usando técnicas de Procesamiento de Lenguaje Natural (NLP).
 
 ---
 
